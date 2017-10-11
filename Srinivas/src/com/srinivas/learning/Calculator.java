@@ -34,7 +34,7 @@ public class Calculator {
 		System.out.println("Division of num1 by num2 is : "+(num1/num2));
 	}
 	public void modulo(int num1, int num2) {
-		System.out.println("Remainder of num1 divided by num2 is : "+(num1%num2));
+		System.out.println("The remainder of num1 divided by num2 is : "+(num1%num2));
 	}
 	
 }
